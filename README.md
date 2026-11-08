@@ -6,7 +6,7 @@ Public-data Facebook profile resolver. Walang login, walang API key na kailangan
 
 **Developed by Joshua D. Gordon**
 
-## Install — Parrot OS
+## Install — Parrot OS(or any linux or windows computer)
 
 chmod +x run.sh
 python3 -m venv .venv && source .venv/bin/activate
@@ -61,4 +61,6 @@ Hindi kaya: email/phone ng fully-locked profile. Kailangan niyan ng Graph token.
 ---
 
 fbtracer 1.0.0 — developed by Joshua D. Gordon. Hindi affiliated sa Meta.
+
+
 
